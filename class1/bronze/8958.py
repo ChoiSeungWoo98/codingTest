@@ -9,8 +9,3 @@ for i in range(10):
 
 # 서로 다른 값이 몇 개 가 있는지 출력한다.
 print(len(dupl))
-
-
-# GPT...
-# remainders = {int(input()) % 42 for _ in range(10)}
-#print(len(remainders))
